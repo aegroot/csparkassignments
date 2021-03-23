@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj",
+      "projectUniqueName": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj",
       "projectName": "sharplibrary",
-      "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj",
+      "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj",
       "packagesPath": "C:\\Users\\alex-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\obj\\",
+      "outputPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

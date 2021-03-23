@@ -7,3 +7,12 @@ C:\Users\alex-\virtual_studio\hello_world\sharplibrary\obj\Debug\netstandard2.0\
 C:\Users\alex-\virtual_studio\hello_world\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.AssemblyInfo.cs
 C:\Users\alex-\virtual_studio\hello_world\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.dll
 C:\Users\alex-\virtual_studio\hello_world\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.pdb
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\bin\Debug\netstandard2.0\sharplibrary.deps.json
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\bin\Debug\netstandard2.0\sharplibrary.dll
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\bin\Debug\netstandard2.0\sharplibrary.pdb
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.csprojAssemblyReference.cache
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.csproj.CoreCompileInputs.cache
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.AssemblyInfoInputs.cache
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.AssemblyInfo.cs
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.dll
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\sharplibrary\obj\Debug\netstandard2.0\sharplibrary.pdb

@@ -12,3 +12,17 @@ C:\Users\alex-\virtual_studio\hello_world\hello_world\obj\Debug\netcoreapp2.1\he
 C:\Users\alex-\virtual_studio\hello_world\hello_world\obj\Debug\netcoreapp2.1\hello_world.csproj.CopyComplete
 C:\Users\alex-\virtual_studio\hello_world\hello_world\obj\Debug\netcoreapp2.1\hello_world.dll
 C:\Users\alex-\virtual_studio\hello_world\hello_world\obj\Debug\netcoreapp2.1\hello_world.pdb
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\hello_world.deps.json
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\hello_world.runtimeconfig.json
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\hello_world.runtimeconfig.dev.json
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\hello_world.dll
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\hello_world.pdb
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\sharplibrary.dll
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\bin\Debug\netcoreapp2.1\sharplibrary.pdb
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.csprojAssemblyReference.cache
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.AssemblyInfoInputs.cache
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.AssemblyInfo.cs
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.csproj.CopyComplete
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.dll
+C:\Users\alex-\virtual_studio\hello_world\csparkassignments\hello_world\obj\Debug\netcoreapp2.1\hello_world.pdb

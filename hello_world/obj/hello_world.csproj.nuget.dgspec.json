@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex-\\virtual_studio\\hello_world\\hello_world\\hello_world.csproj": {}
+    "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\hello_world\\hello_world.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex-\\virtual_studio\\hello_world\\hello_world\\hello_world.csproj": {
+    "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\hello_world\\hello_world.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex-\\virtual_studio\\hello_world\\hello_world\\hello_world.csproj",
+        "projectUniqueName": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\hello_world\\hello_world.csproj",
         "projectName": "hello_world",
-        "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\hello_world\\hello_world.csproj",
+        "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\hello_world\\hello_world.csproj",
         "packagesPath": "C:\\Users\\alex-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\hello_world\\obj\\",
+        "outputPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\hello_world\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj": {
-                "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj"
+              "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj": {
+                "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj"
               }
             }
           }
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj": {
+    "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj",
+        "projectUniqueName": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj",
         "projectName": "sharplibrary",
-        "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\sharplibrary.csproj",
+        "projectPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\sharplibrary.csproj",
         "packagesPath": "C:\\Users\\alex-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\sharplibrary\\obj\\",
+        "outputPath": "C:\\Users\\alex-\\virtual_studio\\hello_world\\csparkassignments\\sharplibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
